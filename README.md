@@ -1,4 +1,4 @@
-# Traffic_light_controller_Synthesis
+# Ex6 :Traffic_light_controller_Synthesis
 
 ## Aim:
 
